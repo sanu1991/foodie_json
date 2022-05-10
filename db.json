@@ -199,45 +199,5 @@
         "recipes": "Made with chicken tikka coated in spicy, delicious makhani gravy filled inside a burger bun. Butter chicken twin burgers are a tasty snack or appetizer for kids and adults alike!.",
         "price": 130
     },
-    {
-        "id": 26,
-        "type": "Sandwich",
-        "name": "Dahi Sandwich",
-        "image": "https://i.ibb.co/9yq3vTh/sandwich.png",
-        "recipes": "This Indian version is made using yogurt, and it looks like thick cream cheese. It works as a lovely, creamy base into which you’ll add crunchy diced veggies and a few spices. Fill the bread and cook on medium heat until the outside is golden and the middle is warmed through.",
-        "price": 80
-    },
-    {
-        "id": 27,
-        "type": "Sandwich",
-        "name": "Aloo Toast Sandwich",
-        "image": "https://i.ibb.co/0FvkBZZ/sandwich1.png",
-        "recipes": "Aloo is the Hindi word for potato, and it’s a popular ingredient in Indian cooking. I knew I’d love this recipe once I saw the combination of warm spices and luscious chutney. And it all starts with simple, boiled potatoes. ",
-        "price": 60
-    },
-    {
-        "id": 28,
-        "type": "Sandwich",
-        "name": "Indian Bread Omelette",
-        "image": "https://i.ibb.co/JymLshB/sandwich2.png",
-        "recipes": "Although this sandwich isn’t loaded with spice, it’s actually a super traditional street food in India.You’ll find it at vendors all over the place, and I love that the recipe has gone viral.After all, what could be better than egg-dipped bread wrapped in cheese, served crispy with bacon and scallions.It takes minutes to throw together, and it will fill you up all day long.",
-        "price": 40
-    },
-    {
-        "id": 29,
-        "type": "Sandwich",
-        "name": "Paneer Sandwich Recipe",
-        "image": "https://i.ibb.co/7YDqsML/sandwich3.png",
-        "recipes": "Paneer is a milky type of soft cheese that looks just like cheese curds, though the texture is more like feta (crumbly).It’s sliceable and super mild, and since it doesn’t melt like regular cheese, it holds its shape in everything from toasted sandwiches to curries. Mix it with veggies, spices, and a little tomato paste for something pretty unique and hard to resist.",
-        "price": 80
-    },
-    {
-        "id": 30,
-        "type": "Sandwich",
-        "name": "Avocado Tandoori Chicken Sandwich",
-        "image": "https://i.ibb.co/ryk2SmB/sandwich4.png",
-        "recipes": "First of all, how amazing does this Indian sandwich look? That bright green against the vibrant tandoori chicken has me drooling. And it tastes even better than it looks. Keep it simple with smashed avocado and chicken, or ramp it up with some crunchy red onions and green chilies.",
-        "price": 100
-    },
-
+   
 ]
