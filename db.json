@@ -1,4 +1,5 @@
-"Fakedata" : [
+{
+    "Fakedata" : [
     {
         "id": 1,
         "type": "Mocktail",
@@ -78,7 +79,6 @@
         "image": "https://i.ibb.co/CP7pkzP/Mushroom1.png",
         "recipes": "For all mushroom lovers, this is another fantastic spicy Indo Chinese recipe of mushroom manchurian dry. A vegan dish",
         "price": 180
-    },
-    
-   
+    } 
 ]
+}
