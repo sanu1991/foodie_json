@@ -1,5 +1,4 @@
-{
-    "Fakedata" : [
+[
     {
         "id": 1,
         "type": "Mocktail",
@@ -81,4 +80,3 @@
         "price": 180
     } 
 ]
-}
